@@ -1,6 +1,8 @@
-body{
-    background-color: #;
+.fundo{
+    background-color: #eadac0;
+    height: 100vh;
 }
+
 
 [data-bs-theme="blue"] {
     --bs-body-color: var(--bs-white);
