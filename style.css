@@ -5,7 +5,7 @@
 
 .fundo {
     background-color: #eadac0;
-    height: 100vh;
+    height: 100%;
 }
 
 
@@ -121,16 +121,21 @@ p {
     margin-bottom: 50px;
 }
 
-.imagem {
-    border-radius: 50px;
-    border-width: 2px;
-    border-color: #807e2a;
-    border-style: solid;
-}
 
 .card {
     margin-top: 20px;
     margin-bottom: 50px;
+}
+
+#imagens {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10%;
+}
+
+.img-thumbnail {
+    background-color: rgb(197, 155, 114);
 }
 
     
