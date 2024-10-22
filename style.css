@@ -66,3 +66,18 @@ body {
     background-color: #eadac0;
     padding: 5%;
 }
+
+.fundoHistoria {
+    background-color: rgb(197, 155, 114); /*nova cor*/
+    padding: 3%;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+
+.texto {
+    padding: 2%;
+    text-align: justify;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
