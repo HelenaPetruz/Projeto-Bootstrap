@@ -121,4 +121,16 @@ p {
     margin-bottom: 50px;
 }
 
+.imagem {
+    border-radius: 50px;
+    border-width: 2px;
+    border-color: #807e2a;
+    border-style: solid;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
     
