@@ -131,6 +131,13 @@ p {
 .card {
     margin-top: 20px;
     margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.progress {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
 }
 
     
