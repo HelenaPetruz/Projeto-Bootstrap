@@ -60,6 +60,7 @@ body {
     /*margin: 0;*/
     background-repeat: no-repeat;
     background-position: left center;
+    overflow-x: hidden;
 }
 
 .myContainer {
@@ -136,7 +137,7 @@ p {
 }
 
 #imagens {
-    margin: 10%;
+    margin: 3%;
 }
 
 .img-thumbnail {
