@@ -65,6 +65,7 @@ body {
 .myContainer {
     background-color: #eadac0;
     padding: 5%;
+    width: 100%;
 }
 
 .fundoHistoria {
@@ -135,9 +136,6 @@ p {
 }
 
 #imagens {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
     margin: 10%;
 }
 
