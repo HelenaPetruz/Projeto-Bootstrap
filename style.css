@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 
-.fundo{
+.fundo {
     background-color: #eadac0;
     height: 100vh;
 }
@@ -32,6 +32,7 @@
     --bs-btn-focus-border-color: #{rgba($white, .5)};
     --bs-btn-focus-box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .2);
 }
+
 }
 
 #titulo {
@@ -50,7 +51,6 @@
     font-style: normal;
     color: #3f1503;
     text-align: center;
-
 }
 
 body {
@@ -62,8 +62,7 @@ body {
     background-position: left center;
 }
 
-.myContainer{
+.myContainer {
     background-color: #eadac0;
     padding: 5%;
-
 }
