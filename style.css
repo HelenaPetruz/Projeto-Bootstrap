@@ -148,4 +148,15 @@ p {
     margin-bottom: 3%;
 }
 
+#rodape {
+    background-color: rgb(197, 155, 114);
+}
+
+#formulario {
+    margin: 2%;
+    background-color: rgb(197, 155, 114);
+    padding: 3%;
+    border-radius: 20px;
+}
+
     
