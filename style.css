@@ -150,6 +150,9 @@ p {
 
 #rodape {
     background-color: rgb(197, 155, 114);
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom:0%;
 }
 
 #formulario {
@@ -161,6 +164,13 @@ p {
 
 #perguntas{
     margin:2%;
+}
+
+.fonte {
+    text-align: justify;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
     
