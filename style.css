@@ -94,6 +94,15 @@ input[type="button"] {
     border-color: #740005;
 }
 
+input[type="submit"] {
+    background-color: #740005;
+    font-family: "Josefin Sans", sans-serif;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #740005;
+}
+
     input[type="button"]:hover {
         background-color: #740005;
         color: white;
@@ -142,6 +151,40 @@ p {
 
 .img-thumbnail {
     background-color: rgb(197, 155, 114);
+}
+
+#espaco{
+    margin-bottom: 3%;
+}
+
+#rodape {
+    background-color: rgb(197, 155, 114);
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom:0%;
+}
+
+#formulario {
+    margin: 2%;
+    background-color: rgb(197, 155, 114);
+    padding: 3%;
+    border-radius: 20px;
+}
+
+#perguntas{
+    margin:2%;
+}
+
+.fonte {
+    text-align: justify;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.margem{
+    padding-right: 2%;
+    padding-left: 2%;
 }
 
     
